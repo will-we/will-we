@@ -5,7 +5,7 @@
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
 -  **Languages :** Java, Rust, JavaScript
--  **Hobbies :** Basketball :basketball: & Music :headphones:
+-  **Hobbies :** Runn :runner: & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart:
 -  **Contact me :** [📫](mailto:weirson.lee@gmail.com)
 
